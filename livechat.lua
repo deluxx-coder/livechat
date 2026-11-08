@@ -1,5 +1,5 @@
 -- Live Chat client (polling) untuk executor
-local BASE = "https://NAMA-PROJECTMU.vercel.app/api/chat" -- GANTI
+local BASE = "https://deluxx-coder-livechat.vercel.app/api/chat" -- GANTI
 local KEY = ""          -- isi sama dengan env CHAT_KEY kalau kamu pakai (kosongkan kalau tidak)
 local POLL = 3          -- detik antar cek pesan
 
